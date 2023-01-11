@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/siddharth27/song-randomizer.git/static/css/main.073c9b0a.css",
+    "main.js": "/siddharth27/song-randomizer.git/static/js/main.d3a0e5cb.js",
+    "static/js/787.cc52b3fc.chunk.js": "/siddharth27/song-randomizer.git/static/js/787.cc52b3fc.chunk.js",
+    "static/media/logo.svg": "/siddharth27/song-randomizer.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/siddharth27/song-randomizer.git/index.html",
+    "main.073c9b0a.css.map": "/siddharth27/song-randomizer.git/static/css/main.073c9b0a.css.map",
+    "main.d3a0e5cb.js.map": "/siddharth27/song-randomizer.git/static/js/main.d3a0e5cb.js.map",
+    "787.cc52b3fc.chunk.js.map": "/siddharth27/song-randomizer.git/static/js/787.cc52b3fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d3a0e5cb.js"
+  ]
+}
